@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nathanmarquis659
+- 👀 I’m interested in creating desktop and mobile applications for my hobbies, and to automate the tedious
+- 🌱 I’m currently learning the basics of Java
+- 💞️ I’m looking to collaborate on smaller projects 
+- 📫 Reach me at nathanmarquis659@u.boisestate.edu
