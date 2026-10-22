@@ -23,7 +23,7 @@ I'm looking for junior cybersecurity analyst and entry-level software engineerin
 | [repo name] | [one line] | [languages] |
 
 ## Where to find me
-- Website: [your site URL]
-- LinkedIn: [your profile URL]
+- Website: nathan.andmar.dev
+- LinkedIn: linkedin.com/in/nathanmarquis/
 
 Open to opportunities starting after graduation in December 2026.
