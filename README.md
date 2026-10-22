@@ -18,7 +18,7 @@ I'm looking for junior cybersecurity analyst and entry-level software engineerin
 ## Selected repositories
 | Project | What it is | Stack |
 |---|---|---|
-| [repo name] | [one line] | [languages] |
+| Musical Fruit | [one line] | [languages] |
 | [repo name] | [one line] | [languages] |
 | [repo name] | [one line] | [languages] |
 
